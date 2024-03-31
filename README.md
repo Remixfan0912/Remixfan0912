@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **remixfan0912@gmail.com**
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Remixfan0912)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remixfan0912)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
