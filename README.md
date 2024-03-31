@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **remixfan0912@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remixfan0912&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remixfan0912&theme=vue-dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
