@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL、Kotlin、Java**
 
-- 📝 I regularly write articles on [https://hackmd.io/@Remixfan/rk1RiRCnp](https://hackmd.io/@Remixfan/rk1RiRCnp)
+- 📝 I regularly write articles on [https://hackmd.io/@Remixfan](https://hackmd.io/@Remixfan)
 
 - 📫 How to reach me **remixfan0912@gmail.com**
 
