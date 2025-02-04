@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm R.F</h1>
-<h3 align="center">I'm a senior high school student, and a S.C server owner and a former commander of BuilderLn.TW</h3>
+<h3 align="center">I'm a senior high school student, and a S.C server owner and a former commander of BuilderTN</h3>
 
 - 🔭 I’m currently working on **Lottery_plugin**
 
